@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antoniipossevin00gallgoog_0007.png"; bbox 0 0 2192 3392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1089 1473 1292 1486">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1089 1473 1292 1486">
+     <span class='ocr_line' id='line_1_1' title="bbox 1089 1473 1292 1486; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1089 1473 1292 1486; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 668 1582 1726 1617">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 668 1582 1726 1617">
+     <span class='ocr_line' id='line_1_2' title="bbox 668 1582 1726 1617; baseline 0.003 -2"><span class='ocrx_word' id='word_1_2' title='bbox 668 1585 725 1615; x_wconf 67' lang='lat' dir='ltr'><strong>1.ss</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 755 1584 862 1617; x_wconf 72' lang='lat' dir='ltr'><strong>PUY.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 886 1594 937 1605; x_wconf 87' lang='grc'><strong>-··</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 964 1582 1252 1615; x_wconf 69' lang='lat' dir='ltr'><strong>un’nummz</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1279 1584 1590 1617; x_wconf 71' lang='lat' dir='ltr'>uAncutssou</span> <span class='ocrx_word' id='word_1_7' title='bbox 1620 1584 1726 1617; x_wconf 58' lang='lat' dir='ltr'><strong>mus</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

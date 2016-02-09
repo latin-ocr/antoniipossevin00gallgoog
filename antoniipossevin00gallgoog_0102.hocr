@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antoniipossevin00gallgoog_0102.png"; bbox 0 0 2192 3392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 545 424 970 431">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 545 424 970 431">
+     <span class='ocr_line' id='line_1_1' title="bbox 545 424 970 431; baseline 0 2961"><span class='ocrx_word' id='word_1_1' title='bbox 545 424 970 431; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 273 542 1763 865">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 273 542 1763 865">
+     <span class='ocr_line' id='line_1_2' title="bbox 274 542 1758 634; baseline -0.001 -22"><span class='ocrx_word' id='word_1_2' title='bbox 274 566 447 634; x_wconf 90' lang='lat' dir='ltr'>quos</span> <span class='ocrx_word' id='word_1_3' title='bbox 501 542 893 613; x_wconf 84' lang='lat' dir='ltr'>Catholicae</span> <span class='ocrx_word' id='word_1_4' title='bbox 948 542 1241 612; x_wconf 86' lang='lat' dir='ltr'>veritatis</span> <span class='ocrx_word' id='word_1_5' title='bbox 1295 543 1525 611; x_wconf 88' lang='lat' dir='ltr'>lumen</span> <span class='ocrx_word' id='word_1_6' title='bbox 1582 566 1758 611; x_wconf 89' lang='lat' dir='ltr'>nun-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 273 658 1763 749; baseline 0.001 -23"><span class='ocrx_word' id='word_1_7' title='bbox 273 681 485 749; x_wconf 86' lang='lat' dir='ltr'>quarn</span> <span class='ocrx_word' id='word_1_8' title='bbox 513 658 841 749; x_wconf 83' lang='lat' dir='ltr'>pervenit,</span> <span class='ocrx_word' id='word_1_9' title='bbox 885 680 1091 749; x_wconf 84' lang='lat' dir='ltr'>quam</span> <span class='ocrx_word' id='word_1_10' title='bbox 1142 658 1257 749; x_wconf 92' lang='lat' dir='ltr'>qui</span> <span class='ocrx_word' id='word_1_11' title='bbox 1295 674 1366 726; x_wconf 86' lang='lat' dir='ltr'>se</span> <span class='ocrx_word' id='word_1_12' title='bbox 1412 658 1500 726; x_wconf 85' lang='lat' dir='ltr'>ab</span> <span class='ocrx_word' id='word_1_13' title='bbox 1530 681 1610 727; x_wconf 86' lang='lat' dir='ltr'>ea</span> <span class='ocrx_word' id='word_1_14' title='bbox 1649 682 1763 727; x_wconf 92' lang='lat' dir='ltr'>vo·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 275 773 1549 865; baseline -0.001 -22"><span class='ocrx_word' id='word_1_15' title='bbox 275 777 490 843; x_wconf 87' lang='lat' dir='ltr'>lentes</span> <span class='ocrx_word' id='word_1_16' title='bbox 518 773 933 865; x_wconf 87' lang='lat' dir='ltr'>scientesque</span> <span class='ocrx_word' id='word_1_17' title='bbox 964 774 1435 864; x_wconf 85' lang='lat' dir='ltr'>disjunxerunt</span> <span class='ocrx_word' id='word_1_18' title='bbox 1465 786 1549 841; x_wconf 89' lang='lat'>79.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 731 1419 1300 1999">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 731 1419 1300 1999">
+     <span class='ocr_line' id='line_1_5' title="bbox 731 1419 1300 1999; baseline 0 1393"><span class='ocrx_word' id='word_1_19' title='bbox 731 1419 1300 1999; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
